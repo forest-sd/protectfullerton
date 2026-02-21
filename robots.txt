@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://protectfullerton.pages.dev/sitemap.xml
