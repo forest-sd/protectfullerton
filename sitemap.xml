@@ -17,4 +17,34 @@
   <url><loc>https://protectfullerton-recallno.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://protectfullerton-recallno.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://protectfullerton-recallno.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://protectfullerton-recallno.com/blog/how-city-councils-actually-work-a-citizens-guide/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://protectfullerton-recallno.com/blog/neighborhood-councils-empowering-grassroots-governance/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://protectfullerton-recallno.com/blog/recall-elections-history-process-and-implications/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://protectfullerton-recallno.com/blog/the-fiscal-health-of-american-cities/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://protectfullerton-recallno.com/blog/transparency-in-local-government-best-practices/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
